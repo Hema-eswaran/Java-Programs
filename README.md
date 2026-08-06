@@ -1,2 +1,6 @@
-# Java-Programs
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello GitHub!");
+    }
+}# Java-Programs
 Java programs and coding practice
